@@ -49,3 +49,37 @@ Screenshots were updated to reflect the latest UI in the following steps:
 ------------
 
 </details>
+
+
+<details>
+  <summary>21-February-2026</summary>
+
+## Release Date : 21-February-2026
+
+### Summary of Changes
+
+Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Udated the instruction and added the additonal steps in Exercise 5 - Task 1 step 35 & step 36
+
+### Screenshot Updates
+
+Screenshots were updated to reflect the latest UI in the following steps:
+- Exercise 1 – Task 1 & Task 2 Step 3, Step 2
+- Exercise 5 - Task 2
+
+### Testing Notes
+
+- **Testing Date**: 21-Feb-2026
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+</details>
