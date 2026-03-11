@@ -50,7 +50,6 @@ Screenshots were updated to reflect the latest UI in the following steps:
 
 </details>
 
-
 <details>
   <summary>21-February-2026</summary>
 
@@ -75,6 +74,37 @@ Screenshots were updated to reflect the latest UI in the following steps:
 ### Testing Notes
 
 - **Testing Date**: 21-Feb-2026
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+</details>
+
+<details>
+  <summary>05-March-2026</summary>
+
+## Release Date : 05-March-2026
+
+### Summary of Changes
+
+Implemented minor improvements, including updating screenshots to reflect the latest UI and refining instructions to enhance clarity and precision.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Udated the instruction for the minor typo mistakes and improve clearity.
+
+### Screenshot Updates
+
+- Only updated the minor instruction to improve clearity.
+
+### Testing Notes
+
+- **Testing Date**: 05-March-2026
 
 ### Testing Scope 
 
